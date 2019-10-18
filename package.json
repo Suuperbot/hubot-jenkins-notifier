@@ -37,7 +37,7 @@
     "eslint": "^3.4.0",
     "hubot": "~2.19.0",
     "istanbul": "^0.4.5",
-    "mocha": "^3.0.2",
+    "mocha": "^6.2.2",
     "mocha-lcov-reporter": "^1.2.0",
     "should": "~11.2.0",
     "sinon": "~1.17.5",
